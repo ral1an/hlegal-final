@@ -197,6 +197,15 @@ body {
         flex-direction: column;
         gap: 30px;
     }
+
+    .layer .form-registration{
+        width: 375px;
+        border-radius: 0px;
+    }
+
+    .layer {
+        position: sticky;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
